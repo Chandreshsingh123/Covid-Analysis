@@ -1,4 +1,4 @@
 # Covid-19 Analysis
 
 
-In this Project We Are Updated State Wise Covid Update  Which Are Active Cases , Death Cases And Recovery Cases. This Project Helpful For us to check Covid Cases in India.
+In this Project , You can see State Wise Covid 19 cases and Updated Active Cases , Death Cases And Recovery Cases.This Project help you for check Covid Cases state wise in India.
